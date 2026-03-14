@@ -126,7 +126,7 @@ This dashboard provides a **high-level overview of the entire cybersecurity data
 It acts as the **central monitoring screen similar to a Security Operations Center (SOC)** where analysts can quickly understand the current threat landscape.
 
 <p align="center">
-<img src="Summary dashboard page 1.png" width="900">
+<img src="Summary dashboard page 1.PNG" width="900">
 </p>
 
 ---
@@ -137,7 +137,7 @@ This dashboard focuses on **network-level behavior**, analyzing different commun
 It helps identify **protocol vulnerabilities and abnormal traffic patterns**, enabling analysts to detect suspicious network activity early.
 
 <p align="center">
-<img src="dashboard page 2.png" width="900">
+<img src="dashboard page 2.PNG" width="900">
 </p>
 
 ---
@@ -148,7 +148,7 @@ This dashboard analyzes **attack behavior patterns over time**, helping identify
 It highlights attack frequency, anomaly patterns, and behavior trends, helping security teams detect **suspicious spikes or unusual attack activities**.
 
 <p align="center">
-<img src="dashboard page 3.png" width="900">
+<img src="dashboard page 3.PNG" width="900">
 </p>
 
 ---
@@ -159,7 +159,7 @@ This dashboard focuses on **attack signatures, alert logs, and threat indicators
 It helps in identifying **frequently occurring attack signatures and security alerts**, enabling deeper threat intelligence analysis and better understanding of attacker tactics.
 
 <p align="center">
-<img src="Dashboard page 4.png" width="900">
+<img src="Dashboard page 4.PNG" width="900">
 </p>
 
 ---
@@ -170,7 +170,7 @@ This dashboard evaluates **security response effectiveness**, including firewall
 It provides insights into **how many attacks were blocked, monitored, or mitigated**, helping measure the effectiveness of cybersecurity defenses.
 
 <p align="center">
-<img src="Security And solution dashboard.png" width="900">
+<img src="Security And solution dashboard.PNG" width="900">
 </p>
 ---
 
