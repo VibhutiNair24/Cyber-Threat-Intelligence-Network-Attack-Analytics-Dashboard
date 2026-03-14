@@ -114,34 +114,64 @@ The project consists of **5 analytical dashboards**.
 
 ---
 
-### 1️⃣ Threat Intelligence Summary
+# 📊 Dashboard Architecture
 
-Overview of **total attacks, anomaly scores, and severity levels**.
-
----
-
-### 2️⃣ Protocol & Network Traffic Analysis
-
-Analyzes **protocol usage, traffic types, and network segments**.
+The project consists of **five analytical dashboards**, each designed to analyze different aspects of cybersecurity threats and network attack behavior. These dashboards help transform raw network logs into meaningful visual insights for better threat detection and security analysis.
 
 ---
 
-### 3️⃣ Cyber Attack Behaviour Analytics
+## 1️⃣ Threat Intelligence Summary
 
-Examines **attack trends and anomaly patterns over time**.
+This dashboard provides a **high-level overview of the entire cybersecurity dataset**, highlighting total attack volume, anomaly scores, severity distribution, and targeted users.  
+It acts as the **central monitoring screen similar to a Security Operations Center (SOC)** where analysts can quickly understand the current threat landscape.
+
+<p align="center">
+<img src="Summary dashboard page 1.png" width="900">
+</p>
 
 ---
 
-### 4️⃣ Threat Intelligence Analytics
+## 2️⃣ Protocol & Network Traffic Analysis
 
-Identifies **attack signatures and alert patterns**.
+This dashboard focuses on **network-level behavior**, analyzing different communication protocols, traffic types, and network segments involved in cyber attacks.  
+It helps identify **protocol vulnerabilities and abnormal traffic patterns**, enabling analysts to detect suspicious network activity early.
+
+<p align="center">
+<img src="dashboard page 2.png" width="900">
+</p>
 
 ---
 
-### 5️⃣ Cyber Defense & Prevention
+## 3️⃣ Cyber Attack Behaviour Analytics
 
-Evaluates **security responses such as firewall logs and actions taken**.
+This dashboard analyzes **attack behavior patterns over time**, helping identify how cyber threats evolve.  
+It highlights attack frequency, anomaly patterns, and behavior trends, helping security teams detect **suspicious spikes or unusual attack activities**.
 
+<p align="center">
+<img src="dashboard page 3.png" width="900">
+</p>
+
+---
+
+## 4️⃣ Threat Intelligence Analytics
+
+This dashboard focuses on **attack signatures, alert logs, and threat indicators**.  
+It helps in identifying **frequently occurring attack signatures and security alerts**, enabling deeper threat intelligence analysis and better understanding of attacker tactics.
+
+<p align="center">
+<img src="Dashboard page 4.png" width="900">
+</p>
+
+---
+
+## 5️⃣ Cyber Defense & Prevention
+
+This dashboard evaluates **security response effectiveness**, including firewall logs, IDS/IPS alerts, and actions taken against attacks.  
+It provides insights into **how many attacks were blocked, monitored, or mitigated**, helping measure the effectiveness of cybersecurity defenses.
+
+<p align="center">
+<img src="Security And solution dashboard.png" width="900">
+</p>
 ---
 
 # 📈 Key Insights
